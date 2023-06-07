@@ -1,22 +1,22 @@
 # next-template
 
-A Next.js 13 template for building apps with Radix UI and Tailwind CSS.
+A Next.js 13 template for building apps with Tailwind CSS, ESLint, Prettier, Icons from Lucide, Dark mode with next-themes, Tailwind CSS class sorting, merging and linting.
+
+Modified from [next-template](https://github.com/shadcn/ui/blob/main/LICENSE.md) by [shadcn](https://github.com/shadcn)
 
 ## Usage
 
 ```bash
-npx create-next-app -e https://github.com/shadcn/next-template
+git clone https://github.com/Krutik460/next-template.git
 ```
 
 ## Features
 
 - Next.js 13 App Directory
-- Radix UI Primitives
+- Shadcn/UI
 - Tailwind CSS
-- Icons from [Lucide](https://lucide.dev)
-- Dark mode with `next-themes`
+- ESLint
+- Prettier
+- Icons from Lucide
+- Dark mode with next-themes
 - Tailwind CSS class sorting, merging and linting.
-
-## License
-
-Licensed under the [MIT license](https://github.com/shadcn/ui/blob/main/LICENSE.md).
