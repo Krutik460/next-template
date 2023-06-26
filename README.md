@@ -7,7 +7,7 @@ Modified from [next-template](https://github.com/shadcn/ui/blob/main/LICENSE.md)
 ## Usage
 
 ```bash
-git clone https://github.com/Krutik460/next-template.git
+npx create-next-app -e https://github.com/Krutik460/next-template
 ```
 
 ## Features
